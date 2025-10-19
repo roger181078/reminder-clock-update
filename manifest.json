@@ -3,7 +3,7 @@
   "version": "1.9.0",
   "firmware": {
     "url": "https://roger181078.github.io/reminder-clock-update/1.9.0/firmware.bin",
-    "sha256": "DFBC5C8865F794A7B18D75D72361B64DE75FB5691361BB25F31B52696952B55F"
+    "sha256": "D8F1A18FEAD599BB5C3DFBAC6DD8008BAE916061E946BDCC0CA7260A4283B90C"
   },
   "notes": {
     "es": "Correcciones y mejoras.",
@@ -11,6 +11,7 @@
   },
   "channel": "stable"
 }
+
 
 
 
