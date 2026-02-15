@@ -3,7 +3,7 @@
   "version": "2.1.5",
   "firmware": {
     "url": "https://roger181078.github.io/reminder-clock-update/2.1.5/firmware.bin",
-    "sha256": "C6F064F505B5E571812B2875C2BA7FE42E5B1B69D59FD1127D0F00EF06605B0B"
+    "sha256": "B0B24EF3A4D23087145CE7FBCDFD59724B4B786C621CEE46FC442B6E01C71748"
   },
   "notes": {
     "es": "Correcciones y mejoras.",
@@ -11,6 +11,7 @@
   },
   "channel": "stable"
 }
+
 
 
 
