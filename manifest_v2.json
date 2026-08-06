@@ -1,9 +1,9 @@
 {
   "model": "REMINDER_Clock_ESP32",
-  "version": "2.3.9",
+  "version": "2.4.0",
   "firmware": {
-    "url": "https://roger181078.github.io/reminder-clock-update/2.3.9/firmware.bin",
-    "sha256": "1764E4B3E1772AC8250AC1E41D23DBAEC4955E73071EAE6F749D47AE52BFC599"
+    "url": "https://roger181078.github.io/reminder-clock-update/2.4.0/firmware.bin",
+    "sha256": "B3F81BE2737554286F4B74F896F89757900CED7C94CE885524CD921ADFB7FDB3"
   },
   "notes": {
     "es": "Correcciones y mejoras.",
